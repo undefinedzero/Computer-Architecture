@@ -12,5 +12,5 @@
 
 - IDE: CLion
 
-- Description: In the project1, I finished a project that aimed to decrypt a RAR file whose password is range from 0000 to 9999. In project 2, I implemented a simple cache simulator.
+- Description: In the project1, I finished a program that aimed to decrypt a RAR file whose password is range from 0000 to 9999. In project 2, I implemented a simple cache simulator.
 
